@@ -1,5 +1,5 @@
 # Oscar Api Extension
-this project is provides an endpoint for user registration which is not provided by Oscar Api
+This project aims to provide an endpoint for user registration, which is not provided by Oscar Api
 
 # Installation
 After cloning cd into the project directory and install requirements using the `pip install requirements.txt` command. then proceed to run the project with the command `python manage.py runserver`. 
